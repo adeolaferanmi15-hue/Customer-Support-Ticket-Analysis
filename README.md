@@ -21,7 +21,7 @@ This project goes beyond numbers to uncover patterns in customer dissatisfaction
 
 ## Dashboard Preview
 
-![Customer Support Dashboard](PASTE_IMAGE_LINK_HERE)
+![Customer Support Dashboard]([PASTE_IMAGE_LINK_HERE](https://github.com/adeolaferanmi15-hue/Customer-Support-Ticket-Analysis/blob/main/customer-support-ticket-analysis/dashboard.png?raw=true))
 
 ---
 
