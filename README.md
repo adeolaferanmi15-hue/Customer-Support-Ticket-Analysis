@@ -22,7 +22,11 @@ This project goes beyond numbers to uncover patterns in customer dissatisfaction
 ## Dashboard Preview
 
 ![Customer Support Dashboard](https://github.com/adeolaferanmi15-hue/Customer-Support-Ticket-Analysis/blob/main/customer-support-ticket-analysis/dashboard.png?raw=true)
+## Dashboard Preview
 
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
 ---
 
 ## Key Performance Indicators (KPIs)
