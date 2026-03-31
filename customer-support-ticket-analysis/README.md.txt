@@ -21,7 +21,7 @@ This project goes beyond numbers to uncover patterns in customer dissatisfaction
 
 ## Dashboard Preview
 
-![Customer Support Dashboard](dashboard.png)
+![CustomerSupportDashboard](dashboard.png)
 
 ---
 
